@@ -2,17 +2,17 @@ package im;
 
 
 public class Student {
-private int gpa;
+private double gpa;
 private int id;
 private String FirstName;
 
-	public Student(int gpa, int id, String FirstName)
+	public Student(double gpa2, int id, String FirstName)
 	{
-		this.gpa = gpa;
+		this.gpa = gpa2;
 		this.id = id;
 		this.FirstName = FirstName;
 	}
-	public int getGpa()
+	public double getGpa()
 	{
 		return gpa;
 	}
