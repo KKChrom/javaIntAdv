@@ -52,7 +52,7 @@ public class cards {
 						arr[j + 1] = tempVal;
 					}
 				}
-				if(i != )
+//				if(i != )
 			}
 		}
        
